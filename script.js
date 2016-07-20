@@ -1,0 +1,1 @@
+console.log('Welcome to my exercise for GHPages')
